@@ -1,0 +1,86 @@
+#EXTM3U MMA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifuKd8t.jpg" group-title="24/7", MMA TV LE OFRECE TV ONLINE EN VIVO 24/7 [PRUEBA CORTESIA DE EDGAR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnV6627.jpg" group-title="ENTRETENIMIENTO", A&E
+https://v3.playerlatino.live/stream/m3u8/1.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBVKNkj.png" group-title="ENTRETENIMIENTO", A&E HD
+https://v3.playerlatino.live/stream/m3u8/474.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ed9OOYe.png" group-title="ENTRETENIMIENTO", A+
+https://v3.playerlatino.live/stream/m3u8/406.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GadJFfh.jpg" group-title="ENTRETENIMIENTO", AMC
+https://v3.playerlatino.live/stream/m3u8/183.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0E6WI1.png" group-title="ENTRETENIMIENTO", ANIMAL PLANET
+https://v3.playerlatino.live/stream/m3u8/3.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kErZHX.jpg" group-title="INFANTIL", CARTOON NETWORK
+https://v3.playerlatino.live/stream/m3u8/17.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01LKqRP.jpg" group-title="INFANTIL", CARTOONITO (BOOMERANG)
+https://v3.playerlatino.live/stream/m3u8/11.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHkdi0v.jpg" group-title="PELICULAS", CINECANAL
+https://v3.playerlatino.live/stream/m3u8/18.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QhCCQoo.jpg" group-title="PELICULAS", CINEMAX
+https://v3.playerlatino.live/stream/m3u8/20.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yc4BwnY.jpg" group-title="NOTICIAS", CNN EN ESPANOL
+https://v3.playerlatino.live/stream/m3u8/136.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ptNkFu3.png" group-title="ENTRETENIMIENTO", COMEDY CENTRAL
+https://v3.playerlatino.live/stream/m3u8/135.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7mEnFb.png" group-title="PELICULAS", DE PELICULA
+https://v3.playerlatino.live/stream/m3u8/21.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ooBYjAt.png" group-title="ENTRETENIMIENTO", DISCOVERY CHANNEL
+https://v3.playerlatino.live/stream/m3u8/22.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5o6PRSX.png" group-title="ENTRETENIMIENTO", DISCOVERY H&H
+https://v3.playerlatino.live/stream/m3u8/24.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hEyQPCB.png" group-title="INFANTIL", DISCOVERY KIDS
+https://v3.playerlatino.live/stream/m3u8/25.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEexItD.jpg" group-title="INFANTIL", DISNEY CHANNEL
+https://v3.playerlatino.live/stream/m3u8/29.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXK6ZWH.png" group-title="INFANTIL", DISNEY JUNIOR
+https://v3.playerlatino.live/stream/m3u8/30.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QvVd0l.png" group-title="INFANTIL", DISNEY XD
+https://v3.playerlatino.live/stream/m3u8/31.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXMLgvG.jpg" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
+https://v3.playerlatino.live/stream/m3u8/32.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHduyAF.png" group-title="ENTRETENIMIENTO", E!
+https://v3.playerlatino.live/stream/m3u8/33.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swODQva.jpg" group-title="PELICULAS", FX
+https://v3.playerlatino.live/stream/m3u8/42.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZddygKm.jpg" group-title="PELICULAS", FXM
+https://v3.playerlatino.live/stream/m3u8/43.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k5WpEXt.png" group-title="PELICULAS", GOLDEN
+https://v3.playerlatino.live/stream/m3u8/57.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L9JjQug.png" group-title="PELICULAS", GOLDEN EDGE
+https://v3.playerlatino.live/stream/m3u8/58.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XFcWv8b.jpg" group-title="ENTRETENIMIENTO", HISTORY CHANNEL
+https://v3.playerlatino.live/stream/m3u8/67.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTvJyZP.png" group-title="INFANTIL", NICKELODEON JR
+https://v3.playerlatino.live/stream/m3u8/184.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IA2Yur2.jpg" group-title="INFANTIL", NICK
+https://v3.playerlatino.live/stream/m3u8/78.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8uj3h3.png" group-title="PELICULAS", PARAMOUNT
+https://v3.playerlatino.live/stream/m3u8/200.m3u
